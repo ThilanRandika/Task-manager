@@ -2,4 +2,7 @@
     <string name="app_name">Task-manager</string>
     <string name="new_task_hint">Enter the new task here</string>
     <string name="addNewTask_saveBtn">Save</string>
+    <string name="today_tasks">Today\'s Tasks</string>
+    <string name="addTaskBtn">Add</string>
+    <string name="taskManager">Task Manager</string>
 </resources>
